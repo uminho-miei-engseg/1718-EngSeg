@@ -118,4 +118,4 @@ Cada grupo indicado abaixo deve identificar os algoritmos e tamanhos de chave ut
 + Grupo 15 - Bulgária, para as ECs "Evrotrust Technologies JSC", "Information Services Plc.", "BORICA AD";
 + Grupo 16 - República Checa, para as três ECs que emitem certificados "QCert for ESig".
 
-Nota: Para Entidades de Certificação que já tenham vários certificados de EC, examine apenas o último certificado.
+Nota: Para Entidades de Certificação que já tenham vários certificados de EC, considere apenas o último certificado emitido.
