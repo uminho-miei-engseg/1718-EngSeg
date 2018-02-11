@@ -2,7 +2,7 @@
 
 Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 16/Fev/2018.
 
-Note que estes exercícios podem ser feitos sem a utilização da máquina virtual disponibilizada, embora se sugira que seja utilizada.
+Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 
 ## Exercícios
 
@@ -54,13 +54,13 @@ Analise e execute esse programa de geração de segredo aleatório e indique o m
 
 O exemplo utilizando o *genSharedSecret.php* visto na aula, encontra-se na diretoria das aulas (Aula2/SecretSharing), no ficheiro com o mesmo nome.
 
-Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo com mais ou menos componentes do que as esperadas.
+Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstroiSecret.php*) com mais ou menos componentes do que as esperadas.
 
 #### Experiência 2.2
 
 O exemplo utilizando o *shares.pl* visto na aula, encontra-se na diretoria das aulas (Aula2/ShamirSharing), no ficheiro com o mesmo nome.
 
-Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo com mais ou menos componentes do que as esperadas.
+Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstruct.pl*) com mais ou menos componentes do que as esperadas.
 
 #### Pergunta P2.1
 
@@ -71,7 +71,7 @@ A. Analise e execute esses programas, indicando o que teve que efectuar para div
 B. Indique também qual a diferença entre *recoverSecretFromComponents-app.py* e *recoverSecretFromAllComponents-app.py*, e em que situações poderá ser necessário utilizar *recoverSecretFromAllComponents-app.py* em vez de *recoverSecretFromComponents-app.py*.
 
 
-Nota: Relembre-se que a geração do par de chaves pode ser efetuada com o comando ``openssl genrsa -aes128 -out mykey.pem 1024``. O correspondente certificado pode ser gerado com o comando ``openssl req -key mykey.pem        -new -x509 -days 365 -out mykey.crt``
+Nota: Relembre-se que a geração do par de chaves pode ser efetuada com o comando ``openssl genrsa -aes128 -out mykey.pem 1024``. O correspondente certificado pode ser gerado com o comando ``openssl req -key mykey.pem -new -x509 -days 365 -out mykey.crt``
 
 ### 3\. Authenticated Encryption
 
@@ -83,14 +83,14 @@ Nota: Relembre-se que a geração do par de chaves pode ser efetuada com o coman
   + o cliente pode decifrar o(s) segredo(s) que cifrou durante o tempo em que pagar a anuidade do serviço;
   + de modo ao cliente saber o que cifrou, pode etiquetar o segredo.
 
-> Para tal, a sua empresa adquiriu um hardware específico de cifra/decifra, em que a chave de cifra é automaticamente mudada todos os dias, sendo identificada por "ano.mes.dia". Esse hardware também efectua HMAC_SHA256 e tem uma API com as seguintes duas funções:
+> Para tal, a sua empresa adquiriu um hardware específico de cifra/decifra, em que a chave de cifra é automaticamente mudada todos os dias, sendo identificada por "ano.mes.dia". Esse hardware também efectua HMAC_SHA256 e tem uma API com as seguintes funções:
   + cifra (segredo_plaintext), devolvendo segredo_cyphertext
   + decifra (segredo_cyphertext, chave_cifra), devolvendo segredo_plaintext ou erro
   + hmac (k, str), devolvendo o HMAC_SHA256 da str a autenticar com chave secreta k
 
 #### Pergunta P3.1
 
-Baseado no cenário identificado, como sugeriria à sua empresa que cifrasse e decifrasse o(s) segredo(s), de modo a garantir confidencialidade, integridade e autenticidade do segredo e da sua etiqueta? Inclua, na sua resposta, o algoritmo, que utilizando a API, pediria à área de desenvolvimento para implementar, para cifrar e decifrar o segredo.
+Baseado no cenário identificado, como sugeriria à sua empresa que cifrasse e decifrasse o(s) segredo(s), de modo a garantir confidencialidade, integridade e autenticidade do segredo e da sua etiqueta? Inclua, na sua resposta, o algoritmo, que utilizando a API, pediria à área de desenvolvimento para implementar, de modo a cifrar e decifrar o segredo.
 
 ### 4\. Algoritmos e tamanhos de chaves
 
@@ -117,3 +117,5 @@ Cada grupo indicado abaixo deve identificar os algoritmos e tamanhos de chave ut
 + Grupo 14 - Espanha, para as ECs "Dirección General de la Policía", "Fábrica Nacional de Moneda y Timbre", "Consorci Administració Oberta de Catalunya - CAOC";
 + Grupo 15 - Bulgária, para as ECs "Evrotrust Technologies JSC", "Information Services Plc.", "BORICA AD";
 + Grupo 16 - República Checa, para as três ECs que emitem certificados "QCert for ESig".
+
+Nota: Para Entidades de Certificação que já tenham vários certificados de EC, examine apenas o último certificado.

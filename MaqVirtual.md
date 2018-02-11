@@ -18,3 +18,10 @@ Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 10/Fev/2018, as seg
 + IDE atom
 
 Pode fazer download do ficheiro **.ova** da máquina virtual em https://iopqso.s.cld.pt.
+
+## Instalação da VM
+
+  1. Instale  a última versão do OracleVM VirtualBox incluindo o  Extention Pack
+  2. descarregue o ficheiro .ova
+  3. Importe esse ficheiro no Virtual Box; menu   `File >> Import Appliance`
+  4. No comando `Start`  faça o `boot` da máquina.
