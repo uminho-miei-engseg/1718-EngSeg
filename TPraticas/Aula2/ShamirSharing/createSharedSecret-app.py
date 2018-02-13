@@ -34,7 +34,9 @@ The JSON Web Signature (JWS) list components are written to STDOUT and errors (i
 existant) are written to STDERR.
 """
 
-import sys, shamirsecret
+import sys
+from eVotUM.Cripto import shamirsecret 
+
 
 def printUsage():
     print("Usage: python createSharedSecret-app.py number_of_shares quorum uid private-key.pem")

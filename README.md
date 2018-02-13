@@ -2,6 +2,11 @@
 
 ## Avisos
 
+**13/Fev/2018**
+
+Foram adicionados os slides da última aula teórica.
+
+Foram adicionadas algumas notas à ficha de trabalho, de modo a explicitar melhor algumas perguntas.
 
 **11/Fev/2018**
 

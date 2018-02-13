@@ -54,19 +54,25 @@ Analise e execute esse programa de geração de segredo aleatório e indique o m
 
 O exemplo utilizando o *genSharedSecret.php* visto na aula, encontra-se na diretoria das aulas (Aula2/SecretSharing), no ficheiro com o mesmo nome.
 
-Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstroiSecret.php*) com mais ou menos componentes do que as esperadas.
+Analise e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstroiSecret.php*) com mais ou menos componentes do que as esperadas.
 
 #### Experiência 2.2
 
 O exemplo utilizando o *shares.pl* visto na aula, encontra-se na diretoria das aulas (Aula2/ShamirSharing), no ficheiro com o mesmo nome.
 
-Analise, compile e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstruct.pl*) com mais ou menos componentes do que as esperadas.
+Analise e execute este exemplo. Verifique o que acontece se tentar reconstruir o segredo (*reconstruct.pl*) com mais ou menos componentes do que as esperadas.
 
 #### Pergunta P2.1
 
 Na diretoria das aulas (Aula2/ShamirSharing) encontra os ficheiros *createSharedSecret-app.py*, *recoverSecretFromComponents-app.py* e *recoverSecretFromAllComponents-app.py* baseado no módulo eVotUM.Cripto (https://gitlab.com/eVotUM/Cripto-py), já instalado na máquina virtual em /home/user/API/Cripto-py/eVotUM/Cripto.
 
 A. Analise e execute esses programas, indicando o que teve que efectuar para dividir o segredo "Agora temos um segredo muito confidencial" em 7 partes, com quorom de 3 para reconstruir o segredo.
+
+Note que a utilização deste programa é ``python createSharedSecret-app.py number_of_shares quorum uid private-key.pem`` em que:
++ number_of_shares - partes em que quer dividir o segredo
++ quorum - número de partes necessárias para reconstruir o segredo
++ uid - identificador do segredo (de modo a garantir que quando reconstruir o segredo, está a fornecer as partes do mesmo segredo)
++ private-key.pem - chave privada, já que cada parte do segredo é devolvida num objeto JWT assinado, em base 64
 
 B. Indique também qual a diferença entre *recoverSecretFromComponents-app.py* e *recoverSecretFromAllComponents-app.py*, e em que situações poderá ser necessário utilizar *recoverSecretFromAllComponents-app.py* em vez de *recoverSecretFromComponents-app.py*.
 
@@ -118,4 +124,12 @@ Cada grupo indicado abaixo deve identificar os algoritmos e tamanhos de chave ut
 + Grupo 15 - Bulgária, para as ECs "Evrotrust Technologies JSC", "Information Services Plc.", "BORICA AD";
 + Grupo 16 - República Checa, para as três ECs que emitem certificados "QCert for ESig".
 
-Nota: Para Entidades de Certificação que já tenham vários certificados de EC, considere apenas o último certificado emitido.
+Nota 1: Para Entidades de Certificação que já tenham vários certificados de EC, considere apenas o último certificado emitido.
+
+Nota 2: Para obter o tamanho das chaves e algoritmos utilizados, deverá:
+1. escolher o certificado da EC,
+2. selecionar _Base 64-encoded_,
+3. copiar o conteúdo do _Base 64-encoded_ e gravar em ficheiro (por ex., cert.crt),
+4. inserir -----BEGIN CERTIFICATE----- no inicio do ficheiro,
+5. inserir -----END CERTIFICATE----- no final do ficheiro,
+6. executar o seguinte comando ``openssl x509 -in cert.crt -text -noout`` (substitua cert.crt pelo nome que deu ao ficheiro no passo 3.)

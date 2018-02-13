@@ -33,7 +33,9 @@ line. The app starts asking for the input of the shares and prints
 the recovered secret to STDOUT or appropriate error to STDERR.
 """
 
-import sys, colored, shamirsecret
+import sys, colored
+from eVotUM.Cripto import shamirsecret 
+
 
 def printUsage():
     print("Usage: python recoverSecretFromComponents-app.py number_of_shares uid cert.pem")

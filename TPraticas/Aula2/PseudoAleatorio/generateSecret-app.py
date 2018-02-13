@@ -31,7 +31,9 @@
 Command line app that generates a random string with length characters.
 """
 
-import sys, shamirsecret
+import sys
+from eVotUM.Cripto import shamirsecret 
+
 
 def printUsage():
     print("Usage: python generateSecret-app.py length")
