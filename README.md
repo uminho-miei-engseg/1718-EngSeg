@@ -2,6 +2,18 @@
 
 ## Avisos
 
+**18/Fev/2018**
+
+1. As fichas de trabalho práticas devem ser entregues até uma semana após a aula. Caso não seja possível, por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
+
+2. Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
+
+3. Na diretoria TPraticas/Aula3 foram disponibilizados ficheiros de apoio à ficha de trabalho para a aula TP 3.
+
+4. Foi disponibilizada a versão 0.2 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://iopqso.s.cld.pt. Note contudo que se já tem uma
+versão anterior instalada, não precisa de instalar esta versão.
+
+
 **13/Fev/2018**
 
 Foram adicionados os slides da última aula teórica.

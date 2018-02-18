@@ -1,6 +1,6 @@
 # Aula TP - 12/Fev/2018
 
-Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 16/Fev/2018.
+Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 19/Fev/2018. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
 Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 
