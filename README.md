@@ -2,6 +2,12 @@
 
 ## Avisos
 
+
+**19/Fev/2018**
+
+Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/blockcain).
+
+
 **18/Fev/2018**
 
 1. As fichas de trabalho práticas devem ser entregues até uma semana após a aula. Caso não seja possível, por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.

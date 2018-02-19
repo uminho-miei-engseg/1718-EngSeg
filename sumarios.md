@@ -24,3 +24,20 @@ Ficha de trabalho incindindo sobre:
 * Secret sharing;
 * Authenticated encryption;
 * Algoritmos e tamanho de chaves.
+
+
+## Semana 3 - 19/Fev/2018
+
+**Teórica**:
+
+* Assinaturas cegas (blind signatures)
+* Protocolos/aplicações criptográficas
+    * SSL/TLS
+    * SSH
+
+**Prática**:
+
+Ficha de trabalho incindindo sobre:
+* Assinaturas cegas
+* SSL/TLS
+* SSH
