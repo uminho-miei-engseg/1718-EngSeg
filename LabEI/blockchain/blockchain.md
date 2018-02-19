@@ -5,7 +5,7 @@
 
 + https://www.coindesk.com/nist-releases-blockchain-report-for-businesses-beginners/ - NIST Releases Blockchain Report for Business Beginners (ainda em versão draft)
 
-+ https://hbr.org/2017/01/the-truth-about-blockchain - também [aqui](The Truth About Blockchain.pdf)
++ https://hbr.org/2017/01/the-truth-about-blockchain - também [aqui](The_Truth_About_Blockchain.pdf)
 
 + https://en.wikipedia.org/wiki/Blockchain
 
