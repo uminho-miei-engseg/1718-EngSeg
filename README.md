@@ -5,7 +5,7 @@
 
 **19/Fev/2018**
 
-Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/blockcain).
+Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/blockchain).
 
 
 **18/Fev/2018**
