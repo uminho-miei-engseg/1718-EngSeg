@@ -2,6 +2,10 @@
 
 ## Avisos
 
+**25/Fev/2018**
+
+Adicionado anúncio da [*Blockchain technology workshop*](LabEI/blockchain/workshop.md) na Universidade do Minho no dia 3 de Março. O registo é obrigatório até 27 de Fevereiro em https://emanuelmota.typeform.com/to/ZFxHoc .
+
 
 **19/Fev/2018**
 
