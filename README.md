@@ -2,6 +2,14 @@
 
 ## Avisos
 
+**26/Fev/2018**
+
+1. Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
+
+2. Foi disponibilizada a versão 0.3 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://7l6esq.s.cld.pt. Note contudo que se já tem uma
+versão anterior instalada, não precisa de instalar esta versão.
+
+
 **25/Fev/2018**
 
 Adicionado anúncio da [*Blockchain technology workshop*](LabEI/blockchain/workshop.md) na Universidade do Minho no dia 3 de Março. O registo é obrigatório até 27 de Fevereiro em https://emanuelmota.typeform.com/to/ZFxHoc .
@@ -20,7 +28,7 @@ Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/b
 
 3. Na diretoria TPraticas/Aula3 foram disponibilizados ficheiros de apoio à ficha de trabalho para a aula TP 3.
 
-4. Foi disponibilizada a versão 0.2 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://iopqso.s.cld.pt. Note contudo que se já tem uma
+4. Foi disponibilizada a versão 0.2 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://puncy5.s.cld.pt. Note contudo que se já tem uma
 versão anterior instalada, não precisa de instalar esta versão.
 
 

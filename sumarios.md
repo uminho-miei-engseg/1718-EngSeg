@@ -41,3 +41,21 @@ Ficha de trabalho incindindo sobre:
 * Assinaturas cegas
 * SSL/TLS
 * SSH
+
+
+## Semana 4 - 26/Fev/2018
+
+**Teórica**:
+
+* Protocolos/aplicações criptográficas
+    * TOR (The Onion Router)
+    * Voto eletrónico
+
+
+**Prática**:
+
+Ficha de trabalho incindindo sobre:
+* TOR
+* Projeto de desenvolvimento de Software
+  * Definição em traços gerais do projeto e das suas funcionalidades
+  * Primeiro draft de etapas e fluxos de comunicação / mensagens

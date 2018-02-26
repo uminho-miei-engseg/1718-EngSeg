@@ -8,7 +8,7 @@ A máquina virtual disponibilizada (Debian 9.3.0 Stretch 64 bits) tem os seguint
 
 O utilizador *user* tem privilégios sudo.
 
-Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 18/Fev/2018, as seguintes packages e aplicações que deverão ser necessárias durante este semestre:
+Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 25/Fev/2018, as seguintes packages e aplicações que deverão ser necessárias durante este semestre:
 + eVotUM Cripto-py
 + Oracle JDK 9
 + Python 2 e 3
@@ -16,11 +16,16 @@ Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 18/Fev/2018, as seg
 + openssl
 + IDE PyCharm community
 + IDE atom
++ tor
++ secure-delete
++ curl
++ torbrowser-launcher
 
 Adicionalmente, no utilizador user, na diretoria Tools, estão instalados:
 + ssh-audit (https://github.com/arthepsy/ssh-audit)
++ kali-anonsurf (https://github.com/Und3rf10w/kali-anonsurf.git)
 
-Pode fazer download do ficheiro **.ova** da máquina virtual em https://puncy5.s.cld.pt.
+Pode fazer download do ficheiro **.ova** da máquina virtual em https://7l6esq.s.cld.pt.
 
 ## Instalação da VM
 
