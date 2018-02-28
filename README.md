@@ -2,6 +2,12 @@
 
 ## Avisos
 
+**28/Fev/2018**
+
+Estão [publicados](ProjDevSw/README.md) os grupos que fazem os projetos de desenvolvimento de software desta disciplina:
+  + O projeto "Leilões online" será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
+  + O projeto "Gestor de passwords com base em QrCodes" será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9.
+
 **26/Fev/2018**
 
 1. Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.

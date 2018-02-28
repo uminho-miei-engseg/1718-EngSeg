@@ -49,7 +49,6 @@ Ficha de trabalho incindindo sobre:
 
 * Protocolos/aplicações criptográficas
     * TOR (The Onion Router)
-    * Voto eletrónico
 
 
 **Prática**:
@@ -58,4 +57,19 @@ Ficha de trabalho incindindo sobre:
 * TOR
 * Projeto de desenvolvimento de Software
   * Definição em traços gerais do projeto e das suas funcionalidades
-  * Primeiro draft de etapas e fluxos de comunicação / mensagens
+
+
+
+## Semana 5 - XXXX
+
+  **Teórica**:
+
+  * Protocolos/aplicações criptográficas
+      * Voto eletrónico
+
+
+  **Prática**:
+
+  Ficha de trabalho incindindo sobre:
+  * Projeto de desenvolvimento de Software
+    * Primeiro draft de etapas e fluxos de comunicação / mensagens
