@@ -4,7 +4,11 @@
 
 **28/Fev/2018**
 
-Estão [publicados](ProjDevSw/README.md) os grupos que fazem os projetos de desenvolvimento de software desta disciplina:
++ Foi criado um *workspace* no slack para discussão de assuntos da disciplina de Engenharia de Sistemas. Para se ligar utilize o seguinte convite em https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ
+   + A discussão dos assuntos relacionados com os vários projetos de blockchain do LabEI decorre no canal \#blockchain.
+
+
++ Estão [publicados](ProjDevSw/README.md) os grupos que fazem os projetos de desenvolvimento de software desta disciplina:
   + O projeto "Leilões online" será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
   + O projeto "Gestor de passwords com base em QrCodes" será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9.
 

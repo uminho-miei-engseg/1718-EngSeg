@@ -1,6 +1,14 @@
 # Blockchain
 
 
+## Slack
+
+Para se juntar ao *workspace* no slack, utilize o seguinte convite no URL:
+https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ
+
+A discussão dos assuntos relacionados com os vários projetos de blockchain do LabEI decorre no canal \#blockchain.
+
+
 ## Bibliografia inicial
 
 + https://www.coindesk.com/nist-releases-blockchain-report-for-businesses-beginners/ - NIST Releases Blockchain Report for Business Beginners (ainda em versão draft)
