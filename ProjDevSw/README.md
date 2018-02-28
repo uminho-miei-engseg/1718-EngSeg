@@ -1,19 +1,20 @@
+# Projeto de desenvolvimento de software
 
-# UC de Laboratório em Engenharia Informática 
+Tal como referido na primeira aula, são 2 projetos para serem feitos até final de Junho.
 
-## Projetos e grupos de trabalho
+Cada projeto é feito por um conjunto alargado de alunos, divididos nos grupos que decidirem, com as funções que decidirem e com as fases e timings que decidirem.
+Parte das aulas práticas deverão ser utilizadas para discussão do projeto com o docente da disciplina.
 
-+ Os grupos deverão ser de 2 ou 3 elementos
+## Projeto 1 – Leilões online
 
-+ Até ao final da primeira semana do segundo semestre, os alunos comunicam à
-  direção de curso o título do projeto a realizar e o docente responsável pela
-  orientação
++ Leilões online, com entrega de propostas em “carta fechada”;
++ Pode ser uma extensão para software open source de leilões online.
 
-## Entregas
+Este projeto será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
 
-+ Durante o semestre serão realizados dois checkpoints em datas a definir (+- a
-  1/3 e 2/3 do semestre) de forma a validar o andamento dos trabalhos e
-  garantirmos a conclusão com sucesso dos projetos.
+## Projeto 2 – Gestor de passwords com base em QrCodes
 
-+ No final do semestre os orientadores devem fazer a avaliação e comunicar à
-direção de curso a nota a atribuir a cada trabalho.
++ Gestor de passwords, em que com base em QrCode apresentado pelo site, o telemóvel lê o QrCode e envia o user + password para desbloquear o acesso;
++ Pode ser uma extensão para software open source de gestão de passwords.
+
+Este projeto será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9. 
