@@ -4,47 +4,48 @@
 
 **4/Mar/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
+1.  Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
+2.  Foram criados canais no _workspace_ no slack para discussão de assuntos da disciplina de Engenharia de Sistemas:
+    - \#leiloes - para discussão do projeto "Leilões online";
+    - \#qrcodes - para discussão do projeto "Gestor de passwords com base em QrCodes".
+
+O convite para o _workspace_ (engenhariadeseguranca) no slack para discussão de assuntos da disciplina de Engenharia de Sistemas está em <https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ>
 
 **28/Fev/2018**
 
-+ Foi criado um *workspace* no slack para discussão de assuntos da disciplina de Engenharia de Sistemas. Para se ligar utilize o convite em https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ
-   + A discussão dos assuntos relacionados com os vários projetos de blockchain do LabEI decorre no canal \#blockchain.
+-   Foi criado um _workspace_ (engenhariadeseguranca) no slack para discussão de assuntos da disciplina de Engenharia de Sistemas. Para se ligar utilize o convite em <https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ>
+    -   A discussão dos assuntos relacionados com os vários projetos de blockchain do LabEI decorre no canal #blockchain.
 
 
-+ Estão [publicados](ProjDevSw/README.md) os grupos que fazem os projetos de desenvolvimento de software desta disciplina:
-  + O projeto "Leilões online" será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
-  + O projeto "Gestor de passwords com base em QrCodes" será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9.
+-   Estão [publicados](ProjDevSw/README.md) os grupos que fazem os projetos de desenvolvimento de software desta disciplina:
+    -   O projeto "Leilões online" será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
+    -   O projeto "Gestor de passwords com base em QrCodes" será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9.
 
 **26/Fev/2018**
 
-1. Foi disponbibilizada a ficha de trabalho para a aula TP 4, assim como os slides para a aula T 4.
+1.  Foi disponbibilizada a ficha de trabalho para a aula TP 4, assim como os slides para a aula T 4.
 
-2. Foi disponibilizada a versão 0.3 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://7l6esq.s.cld.pt. Note contudo que se já tem uma
-versão anterior instalada, não precisa de instalar esta versão.
-
+2.  Foi disponibilizada a versão 0.3 da máquina virtual. Pode fazer download do ficheiro **.ova** em <https://7l6esq.s.cld.pt>. Note contudo que se já tem uma
+    versão anterior instalada, não precisa de instalar esta versão.
 
 **25/Fev/2018**
 
-Adicionado anúncio da [*Blockchain technology workshop*](LabEI/blockchain/workshop.md) na Universidade do Minho no dia 3 de Março. O registo, para quem quiser participar, é obrigatório até 27 de Fevereiro em https://emanuelmota.typeform.com/to/ZFxHoc .
-
+Adicionado anúncio da [_Blockchain technology workshop_](LabEI/blockchain/workshop.md) na Universidade do Minho no dia 3 de Março. O registo, para quem quiser participar, é obrigatório até 27 de Fevereiro em <https://emanuelmota.typeform.com/to/ZFxHoc> .
 
 **19/Fev/2018**
 
 Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/blockchain).
 
-
 **18/Fev/2018**
 
-1. As fichas de trabalho práticas devem ser entregues até uma semana após a aula. Caso não seja possível, por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
+1.  As fichas de trabalho práticas devem ser entregues até uma semana após a aula. Caso não seja possível, por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
-2. Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
+2.  Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
 
-3. Na diretoria TPraticas/Aula3 foram disponibilizados ficheiros de apoio à ficha de trabalho para a aula TP 3.
+3.  Na diretoria TPraticas/Aula3 foram disponibilizados ficheiros de apoio à ficha de trabalho para a aula TP 3.
 
-4. Foi disponibilizada a versão 0.2 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://puncy5.s.cld.pt. Note contudo que se já tem uma
-versão anterior instalada, não precisa de instalar esta versão.
-
+4.  Foi disponibilizada a versão 0.2 da máquina virtual. Pode fazer download do ficheiro **.ova** em <https://puncy5.s.cld.pt>. Note contudo que se já tem uma
+    versão anterior instalada, não precisa de instalar esta versão.
 
 **13/Fev/2018**
 
@@ -54,10 +55,9 @@ Foram adicionadas algumas notas à ficha de trabalho, de modo a explicitar melho
 
 **11/Fev/2018**
 
-Foi disponibilizada a versão 0.1 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://iopqso.s.cld.pt.
+Foi disponibilizada a versão 0.1 da máquina virtual. Pode fazer download do ficheiro **.ova** em <https://iopqso.s.cld.pt>.
 
 Para mais informações sobre a máquina virtual veja [MaqVirtual.md](MaqVirtual.md).
-
 
 **11/Fev/2018**
 
@@ -71,12 +71,12 @@ Por favor enviem-me, por e-mail, os elementos dos grupos de trabalho para esta d
 
 **6/Fev/2018**
 
-+ Foi efetuado invite para os alunos que faziam parte dos grupos de trabalho de Tecnologia Criptográfica. Quem não tiver recebido, avise e indique o utilizador github, de modo a voltar a enviar.
-+ Foi disponibilizada a apresentação da primeira aula.
+-   Foi efetuado invite para os alunos que faziam parte dos grupos de trabalho de Tecnologia Criptográfica. Quem não tiver recebido, avise e indique o utilizador github, de modo a voltar a enviar.
+-   Foi disponibilizada a apresentação da primeira aula.
 
 ## Sub-diretorias
 
-+ slides - contém os slides de apoio às aulas teóricas;
-+ TPraticas - contém exercícios de apoio às aulas TP e P;
-+ LabEI - enunciados dos trabalhos propostos para o Laboratório de Engenharia Informática;
-+ ProjDevSw - informação relevante para o Projeto de Desenvolvimento de Software;
+-   slides - contém os slides de apoio às aulas teóricas;
+-   TPraticas - contém exercícios de apoio às aulas TP e P;
+-   LabEI - enunciados dos trabalhos propostos para o Laboratório de Engenharia Informática;
+-   ProjDevSw - informação relevante para o Projeto de Desenvolvimento de Software;
