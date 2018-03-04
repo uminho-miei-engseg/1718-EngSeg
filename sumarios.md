@@ -19,7 +19,7 @@
 
 **Prática**:
 
-Ficha de trabalho incindindo sobre:
+Ficha de trabalho incidindo sobre:
 * /dev/random vs /dev/urandom;
 * Secret sharing;
 * Authenticated encryption;
@@ -37,7 +37,7 @@ Ficha de trabalho incindindo sobre:
 
 **Prática**:
 
-Ficha de trabalho incindindo sobre:
+Ficha de trabalho incidindo sobre:
 * Assinaturas cegas
 * SSL/TLS
 * SSH
@@ -53,14 +53,14 @@ Ficha de trabalho incindindo sobre:
 
 **Prática**:
 
-Ficha de trabalho incindindo sobre:
+Ficha de trabalho incidindo sobre:
 * TOR
 * Projeto de desenvolvimento de Software
   * Definição em traços gerais do projeto e das suas funcionalidades
 
 
 
-## Semana 5 - XXXX
+## Semana 5 - 5/Março/2018
 
   **Teórica**:
 
@@ -70,6 +70,6 @@ Ficha de trabalho incindindo sobre:
 
   **Prática**:
 
-  Ficha de trabalho incindindo sobre:
+  Ficha de trabalho incidindo sobre:
   * Projeto de desenvolvimento de Software
     * Primeiro draft de etapas e fluxos de comunicação / mensagens

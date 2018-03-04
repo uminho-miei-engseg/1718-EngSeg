@@ -2,9 +2,13 @@
 
 ## Avisos
 
+**4/Mar/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
+
 **28/Fev/2018**
 
-+ Foi criado um *workspace* no slack para discussão de assuntos da disciplina de Engenharia de Sistemas. Para se ligar utilize o seguinte convite em https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ
++ Foi criado um *workspace* no slack para discussão de assuntos da disciplina de Engenharia de Sistemas. Para se ligar utilize o convite em https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtMzIyMTExNDE1NTU3LTY3N2NjNGI2ZDhkMjNiNmUwNDEyN2FmZTdkNWZjNTU4Yzg4MDJhNzI4ZTkwYmMwNzllMjIyMzhlYTFlNjUyNzQ
    + A discussão dos assuntos relacionados com os vários projetos de blockchain do LabEI decorre no canal \#blockchain.
 
 
@@ -14,7 +18,7 @@
 
 **26/Fev/2018**
 
-1. Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
+1. Foi disponbibilizada a ficha de trabalho para a aula TP 4, assim como os slides para a aula T 4.
 
 2. Foi disponibilizada a versão 0.3 da máquina virtual. Pode fazer download do ficheiro **.ova** em https://7l6esq.s.cld.pt. Note contudo que se já tem uma
 versão anterior instalada, não precisa de instalar esta versão.
