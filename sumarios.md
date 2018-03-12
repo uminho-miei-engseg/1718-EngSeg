@@ -73,3 +73,17 @@ Ficha de trabalho incidindo sobre:
   Ficha de trabalho incidindo sobre:
   * Projeto de desenvolvimento de Software
     * Primeiro draft de etapas e fluxos de comunicação / mensagens
+
+
+## Semana 6 - 12/Março/2018
+
+  **Teórica**:
+
+  * Apresentação convidada (Eng. Paulo Borges) sobre Consultoria, Assessoria e Auditoria.
+
+
+  **Prática**:
+
+  Ficha de trabalho incidindo sobre:
+  * Continuação do projeto de desenvolvimento de Software
+    * Primeiro draft de etapas e fluxos de comunicação / mensagens
