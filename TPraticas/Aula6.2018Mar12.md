@@ -6,7 +6,7 @@ O projeto 1 (Leilões online) será efetuado, em conjunto, pelos grupos 1, 6, 10
 
 O projeto 2 (Gestor de passwords com base em QrCodes) será efetuado, em conjunto, pelos grupos 2, 3, 4, 5, 7, 8, 9.
 
-## 2\. Projeto de desenvolvimento de software
+## 1\. Projeto de desenvolvimento de software
 
 Continuação de trabalho nos projetos de desenvolvimento de software que tinham sido apresentados:
 
