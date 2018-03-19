@@ -10,7 +10,7 @@ Foi disponbibilizada a ficha de trabalho para a aula TP 7, assim como os slides 
 
 Foi disponbibilizada a ficha de trabalho para a aula TP 6, assim como os slides para a aula T 6.
 
-**4/Mar/2018**
+**4/Mar/2018** 
 
 1.  Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
 2.  Foram criados canais no _workspace_ no slack para discussão de assuntos da disciplina de Engenharia de Sistemas:
