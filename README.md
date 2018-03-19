@@ -2,6 +2,14 @@
 
 ## Avisos
 
+**19/Mar/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 7, assim como os slides para a aula T 7.
+
+**12/Mar/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 6, assim como os slides para a aula T 6.
+
 **4/Mar/2018**
 
 1.  Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
