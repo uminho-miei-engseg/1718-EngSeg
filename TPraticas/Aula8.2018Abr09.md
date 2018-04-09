@@ -110,7 +110,7 @@ Como exemplo utilize o seguinte código C:
 
 ## Projeto de desenvolvimento de software
 
-Os alunos deverão utilizar o resto desta aula TP para continuarem o projeto de desenvolvimento de software. **Note que foram adicionados dois pontos ao output desta fase, baseado no RGPD.**
+Os alunos deverão utilizar o resto desta aula TP para continuarem o projeto de desenvolvimento de software.
 
 O projeto 1 (Leilões online) será efetuado, em conjunto, pelos grupos 1, 6, 10, 11, 12.
 
@@ -133,4 +133,4 @@ Como output desta fase, deverão ter um primeiro draft de:
 -   identificar os passos efetuados para a concepção e desenvolvimento do projeto, de forma a seguir os princípios de "_privacy by design_" e "_data minimization_" do RGPD (Regulamento Geral de Proteção de Dados);
 -   identificar de que modo o software garante os direitos do titular dos dados, de acordo com o RGPD.
 
-Estes pontos deverão fazer parte também do relatório final do projeto.
+Estes pontos deverão fazer parte do relatório final do projeto.
