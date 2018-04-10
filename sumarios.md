@@ -62,11 +62,12 @@ Ficha de trabalho incidindo sobre:
   **Teórica**:
 
 -   Protocolos/aplicações criptográficas
+
     -   Voto eletrónico
 
-  **Prática**:
+    **Prática**:
 
-  Ficha de trabalho incidindo sobre:
+    Ficha de trabalho incidindo sobre:
 
 -   Projeto de desenvolvimento de Software
     -   Primeiro draft de etapas e fluxos de comunicação / mensagens
@@ -77,9 +78,9 @@ Ficha de trabalho incidindo sobre:
 
 -   Apresentação convidada (Eng. Paulo Borges) sobre Consultoria, Assessoria e Auditoria.
 
-  **Prática**:
+    **Prática**:
 
-  Ficha de trabalho incidindo sobre:
+    Ficha de trabalho incidindo sobre:
 
 -   Continuação do projeto de desenvolvimento de Software
     -   Primeiro draft de etapas e fluxos de comunicação / mensagens
@@ -97,3 +98,19 @@ Ficha de trabalho incidindo sobre:
 -   RGPD - Regulamento e draft da ISO 27552
 -   Projeto de desenvolvimento de Software
     -   Adição de novos requisitos baseados no RGPD
+
+## Semana 8 - 09/Abr/2018
+
+**Teórica**:
+
+-   Segurança de software
+-   Conceitos
+-   Vulnerabilidades
+-   Desenvolvimento de software seguro
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de codificação
+-   Continuação do projeto de desenvolvimento de Software

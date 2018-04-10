@@ -3,11 +3,11 @@
 ## Avisos
 
 
-**09/Mar/2018**
+**09/Abr/2018**
 
 Foi disponbibilizada a ficha de trabalho para a aula TP 8, assim como os slides para a aula T 8.
 
-Teste da disciplina foi remarcado para dia 28 de Maio de 2018.
+Teste da disciplina foi marcado para dia 28 de Maio de 2018.
 
 
 **19/Mar/2018**
