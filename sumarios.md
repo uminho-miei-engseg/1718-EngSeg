@@ -104,9 +104,9 @@ Ficha de trabalho incidindo sobre:
 **Teórica**:
 
 -   Segurança de software
--   Conceitos
--   Vulnerabilidades
--   Desenvolvimento de software seguro
+  -   Conceitos
+  -   Vulnerabilidades
+  -   Desenvolvimento de software seguro
 
 **Prática**:
 
@@ -114,3 +114,24 @@ Ficha de trabalho incidindo sobre:
 
 -   Vulnerabilidade de codificação
 -   Continuação do projeto de desenvolvimento de Software
+
+## Semana 9 - 16/Abr/2018
+
+**Teórica**:
+
+-   Segurança de software
+  -   Revisão de conceitos relativos ao _Software Development Lifecycle_ (S-SDLC)
+  -   _Secure Software Development Lifecycle_ (S-SDLC)
+     - Introdução de segurança nos modelos convencionais de desenvolvimento de software
+     - Utilização de modelo de desenvolvimento de software seguro - caso do _Microsoft Security Development Lifecycle_
+     - Adição de segurança utilizando um Modelo de Maturidade - caso do _Software Assurance Maturity Model_ (SAMM)
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Risco de segurança
+-   Secure Software Development Lifecycle (S-SDLC)
+- Projeto de desenvolvimento de Software
+    -   Adição de novo pedido baseado no SAMM
