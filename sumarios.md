@@ -135,3 +135,17 @@ Ficha de trabalho incidindo sobre:
 -   Secure Software Development Lifecycle (S-SDLC)
 - Projeto de desenvolvimento de Software
     -   Adição de novo pedido baseado no SAMM
+
+## Semana 10 - 23/Abr/2018
+
+**Teórica**:
+
+-   Segurança de software
+  -  Vulnerabilidade de Buffer overflow
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de Buffer overflow

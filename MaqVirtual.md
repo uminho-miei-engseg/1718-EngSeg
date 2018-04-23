@@ -6,9 +6,9 @@ A máquina virtual disponibilizada (Debian 9.3.0 Stretch 64 bits) tem os seguint
 + root / root
 + user / user
 
-O utilizador *user* tem privilégios sudo.
+O utilizador *user* tem privilégios sudo, devendo utilizar este utilizador para efetuar as fichas de trabalho das aulas TP.
 
-Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 25/Fev/2018, as seguintes packages e aplicações que deverão ser necessárias durante este semestre:
+Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 20/Abr/2018, as seguintes packages e aplicações que deverão ser necessárias durante este semestre:
 + eVotUM Cripto-py
 + Oracle JDK 9
 + Python 2 e 3
@@ -20,10 +20,12 @@ Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 25/Fev/2018, as seg
 + secure-delete
 + curl
 + torbrowser-launcher
++ gdb
 
 Adicionalmente, no utilizador user, na diretoria Tools, estão instalados:
 + ssh-audit (https://github.com/arthepsy/ssh-audit)
 + kali-anonsurf (https://github.com/Und3rf10w/kali-anonsurf.git)
++ GDB-Peda (https://github.com/longld/peda.git)
 
 Pode fazer download do ficheiro **.ova** da máquina virtual em https://7l6esq.s.cld.pt.
 
