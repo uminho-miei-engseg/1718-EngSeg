@@ -142,6 +142,9 @@ Ficha de trabalho incidindo sobre:
 
 -   Segurança de software
   -  Vulnerabilidade de Buffer overflow
+- Ameaças de segurança ao software
+  - Categorias de ataques que exploram vulnerabilidades de software
+  - Lista de ameaças STRIDE
 
 
 **Prática**:
