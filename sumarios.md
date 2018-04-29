@@ -152,3 +152,20 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 -   Vulnerabilidade de Buffer overflow
+-   Continuação do projeto de desenvolvimento de Software
+
+
+
+## Semana 11 - 30/Abr/2018
+
+**Teórica**:
+
+-   Apresentação convidada (Dr. Vitor Moura).
+- Vulnerabilidade de inteiros
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- Vulnerabilidade de inteiros
+-   Continuação do projeto de desenvolvimento de Software

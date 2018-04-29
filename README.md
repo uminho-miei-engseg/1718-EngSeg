@@ -2,6 +2,14 @@
 
 ## Avisos
 
+**29/Abr/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 11, assim como os slides para a aula T 11.
+
+
+**22/Abr/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 10, assim como os slides para a aula T 10.
 
 **16/Abr/2018**
 
