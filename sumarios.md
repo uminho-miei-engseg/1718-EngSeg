@@ -160,7 +160,7 @@ Ficha de trabalho incidindo sobre:
 
 **Teórica**:
 
--   Apresentação convidada (Dr. Vitor Moura).
+-   Apresentação convidada (Dr. Vitor Moura) sobre "Modelação de Processos Produtivos"
 - Vulnerabilidade de inteiros
 
 **Prática**:
@@ -169,3 +169,16 @@ Ficha de trabalho incidindo sobre:
 
 - Vulnerabilidade de inteiros
 -   Continuação do projeto de desenvolvimento de Software
+
+
+## Semana 12 - 07/Mai/2018
+
+**Prática**:
+
+-  Continuação do projeto de desenvolvimento de Software
+
+## Semana 13 - 14/Mai/2018
+
+**Prática**:
+
+-  Continuação do projeto de desenvolvimento de Software

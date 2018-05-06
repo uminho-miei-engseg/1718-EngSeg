@@ -2,6 +2,10 @@
 
 ## Avisos
 
+**06/Mai/2018**
+
+Foi disponbibilizada o sumário para a aula 12 e 13.
+
 **29/Abr/2018**
 
 Foi disponbibilizada a ficha de trabalho para a aula TP 11, assim como os slides para a aula T 11.
