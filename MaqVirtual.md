@@ -21,6 +21,8 @@ Esta VM usa  o *MATE  Desktop Environment*. Tem instalado, a 20/Abr/2018, as seg
 + curl
 + torbrowser-launcher
 + gdb
++ docker
++ WebGoat (sobre docker)
 
 Adicionalmente, no utilizador user, na diretoria Tools, estão instalados:
 + ssh-audit (https://github.com/arthepsy/ssh-audit)

@@ -182,3 +182,20 @@ Ficha de trabalho incidindo sobre:
 **Prática**:
 
 -  Continuação do projeto de desenvolvimento de Software
+
+
+## Semana 14 - 21/Mai/2018
+
+**Teórica**:
+
+- Riscos de segurança em aplicações Web (OWASP Top 10)
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- _Injection_
+- XSS
+- Quebra na Autenticação
+-  Continuação do projeto de desenvolvimento de Software

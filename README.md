@@ -2,9 +2,16 @@
 
 ## Avisos
 
+**19/Mai/2018**
+
+Foi disponbibilizada a ficha de trabalho para a aula TP 14, assim como os slides para a aula T 14.
+
+Note-se que para a aula TP vai ser necessário a utilização do Docker, pelo que se sugere a sua instalação prévia (consulte a ficha de trabalho
+para pormenores sobre instalação do Docker).
+
 **06/Mai/2018**
 
-Foi disponbibilizada o sumário para a aula 12 e 13.
+Foi disponbibilizado o sumário para a aula 12 e 13.
 
 **29/Abr/2018**
 
