@@ -2,49 +2,55 @@
 
 ## Avisos
 
+**24/Mai/2018**
+
+Foi marcado, pelo Conselho de Cursos, a data do exame:
++ época de Junho, a 25/Junho/2018 das 09h00 às 12h00 no CG - Edifício 1 - 2.07;
++ época de recurso, a 16/Julho/2018 das 09h00 às 12h00.
+
 **19/Mai/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 14, assim como os slides para a aula T 14.
+Foi disponibilizada a ficha de trabalho para a aula TP 14, assim como os slides para a aula T 14.
 
 Note-se que para a aula TP vai ser necessário a utilização do Docker, pelo que se sugere a sua instalação prévia (consulte a ficha de trabalho
 para pormenores sobre instalação do Docker).
 
 **06/Mai/2018**
 
-Foi disponbibilizado o sumário para a aula 12 e 13.
+Foi disponibilizado o sumário para a aula 12 e 13.
 
 **29/Abr/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 11, assim como os slides para a aula T 11.
+Foi disponibilizada a ficha de trabalho para a aula TP 11, assim como os slides para a aula T 11.
 
 
 **22/Abr/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 10, assim como os slides para a aula T 10.
+Foi disponibilizada a ficha de trabalho para a aula TP 10, assim como os slides para a aula T 10.
 
 **16/Abr/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 9, assim como os slides para a aula T 9.
+Foi disponibilizada a ficha de trabalho para a aula TP 9, assim como os slides para a aula T 9.
 
 
 **09/Abr/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 8, assim como os slides para a aula T 8.
+Foi disponibilizada a ficha de trabalho para a aula TP 8, assim como os slides para a aula T 8.
 
 Teste da disciplina foi marcado para dia 28 de Maio de 2018.
 
 
 **19/Mar/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 7, assim como os slides para a aula T 7.
+Foi disponibilizada a ficha de trabalho para a aula TP 7, assim como os slides para a aula T 7.
 
 **12/Mar/2018**
 
-Foi disponbibilizada a ficha de trabalho para a aula TP 6, assim como os slides para a aula T 6.
+Foi disponibilizada a ficha de trabalho para a aula TP 6, assim como os slides para a aula T 6.
 
 **4/Mar/2018**
 
-1.  Foi disponbibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
+1.  Foi disponibilizada a ficha de trabalho para a aula TP 5, assim como os slides para a aula T 5.
 2.  Foram criados canais no _workspace_ no slack para discussão de assuntos da disciplina de Engenharia de Sistemas:
     - \#leiloes - para discussão do projeto "Leilões online";
     - \#qrcodes - para discussão do projeto "Gestor de passwords com base em QrCodes".
@@ -63,7 +69,7 @@ O convite para o _workspace_ (engenhariadeseguranca) no slack para discussão de
 
 **26/Fev/2018**
 
-1.  Foi disponbibilizada a ficha de trabalho para a aula TP 4, assim como os slides para a aula T 4.
+1.  Foi disponibilizada a ficha de trabalho para a aula TP 4, assim como os slides para a aula T 4.
 
 2.  Foi disponibilizada a versão 0.3 da máquina virtual. Pode fazer download do ficheiro **.ova** em <https://7l6esq.s.cld.pt>. Note contudo que se já tem uma
     versão anterior instalada, não precisa de instalar esta versão.
@@ -80,7 +86,7 @@ Adicionada informação sobre tecnologia blockchain na diretoria [LabEI](LabEI/b
 
 1.  As fichas de trabalho práticas devem ser entregues até uma semana após a aula. Caso não seja possível, por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
-2.  Foi disponbibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
+2.  Foi disponibilizada a ficha de trabalho para a aula TP 3, assim como os slides para a aula T 3.
 
 3.  Na diretoria TPraticas/Aula3 foram disponibilizados ficheiros de apoio à ficha de trabalho para a aula TP 3.
 
