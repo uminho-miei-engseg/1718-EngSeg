@@ -2,6 +2,14 @@
 
 ## Avisos
 
+**03/Jun/2018**
+
+Foi disponibilizada a ficha de trabalho para a aula TP 16, assim como os slides para a aula T 16.
+
+A data limite para colocar no github as respostas às fichas TP é 8/Jun/2018.
+
+
+
 **24/Mai/2018**
 
 Foi marcado, pelo Conselho de Cursos, a data do exame:

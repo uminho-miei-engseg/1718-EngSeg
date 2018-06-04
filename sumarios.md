@@ -199,3 +199,25 @@ Ficha de trabalho incidindo sobre:
 - XSS
 - Quebra na Autenticação
 -  Continuação do projeto de desenvolvimento de Software
+
+
+## Semana 15 - 28/Mai/2018
+
+Teste da disciplina.
+
+## Semana 16 - 4/Jun/2018
+
+**Teórica**:
+
+- Validação de Input
+- Princípios de projeto de software
+- Evitar as Vulnerabilidades de Projeto predominantes
+
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- Validação de Input
+-  Continuação do projeto de desenvolvimento de Software
