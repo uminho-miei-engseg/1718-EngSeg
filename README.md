@@ -8,6 +8,13 @@ Foi disponibilizada a ficha de trabalho para a aula TP 16, assim como os slides 
 
 A data limite para colocar no github as respostas às fichas TP é 8/Jun/2018.
 
+Datas para TP:
++ relatório - 27/Junho
++ disponibilidade de código no github (ou similar) - 27/Junho
++ apresentação - 29/Junho, pelas 14h00
+Nota: A [Avaliação 360](ProjDevSw/Avaliacao360.xlsx) graus terá de ser entregue/enviada até à data do relatório (27/Junho).
+
+
 
 
 **24/Mai/2018**
