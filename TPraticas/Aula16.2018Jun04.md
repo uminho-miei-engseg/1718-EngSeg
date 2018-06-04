@@ -128,3 +128,8 @@ A Toolbox (ficheiro excel) deverá fazer parte do relatório final do projeto, f
 Adicionalmente, no documento do relatório deverá incorporar um anexo em que indique a decisão da Fase _Set the Target_ e a justifique.
 
 Note que não há respostas certas nem erradas.
+
+### Avaliação 360 graus
+
+Como componente final do trabalho terá que efetuar a sua auto-avaliação e a avaliação de todos os seus colegas de projeto, de acordo com as instruções
+contidas no ficheiro excel [Avaliacao360.xlsx](../ProjDevSw/Avaliacao360.xlsx) na diretoria ProjDevSw.
