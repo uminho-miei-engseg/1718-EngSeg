@@ -2,6 +2,13 @@
 
 ## Avisos
 
+
+**22/Jun/2018**
+
+O exame de Engenharia de Segurança está marcado para as 09h00 no dia 25 de Junho na sala 2.07 do Edificio 1. Contudo, como o exame vai ter uma duração curta e eu ainda vou ter que imprimir as cópias do exame nessa manhã, **o exame só se iniciará às 10h30 no local indicado**.
+
+Peço a quem quiser fazer melhoria para me enviar um mail, de modo a poder imprimir as cópias necessárias.
+
 **03/Jun/2018**
 
 Foi disponibilizada a ficha de trabalho para a aula TP 16, assim como os slides para a aula T 16.
